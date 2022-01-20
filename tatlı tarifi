@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: pink;">
+   
+    <h2>ÇİKOLATALI PROFİTEROL TARİFİ:</h2>
+
+    <ul>
+        <li>1 LİTRE SÜT</li>
+        <li>1 SU BARDAĞI TOZ ŞEKER</li>
+        <li>3 YEMEK KAŞIĞI DOLUSU UN</li>
+        <li>3 YEMEKKAŞIĞI DOLUSU NİŞASTA</li>
+        <li>1 YEMEK KAŞIĞI TEREYAĞI</li>
+        <li>1 PAKET VANİLYA</li>
+        <li>1 PAKET TOZ ŞEKER</li>
+        <li>2.5 PAKET KAKAOLU BURÇAK BİSKÜVİ</li>
+        <br>
+    </ul>
+    <br>
+    <H4>ÜZERİ İÇİN;</H4>
+    <ul>
+        <li>1 paket hazır çikolata</li>
+        <li>2 su bardağı süt</li>
+    </ul>
+    <br>
+    <h2>ÇİKOLATALI PROFİTEROL NASIL YAPILIR?</h2>
+    <P>malzemleri karıştırırsan olur :)</P>
+
+    <img src="https://im.haberturk.com/2021/07/16/ver1626460723/3136367_810x458.jpg" alt="PROFİTEROL">
+
+    
+</body>
+</html>
